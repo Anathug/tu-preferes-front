@@ -1,0 +1,14 @@
+{
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": true,
+    "eslint.validate": ["vue", "javascript"],
+    "editor.formatOnSaveMode": "file",
+    "files.autoSave": "onFocusChange",
+    "vs-code-prettier-eslint.prettierLast": false,
+    "scss.lint.unknownAtRules": "ignore",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
